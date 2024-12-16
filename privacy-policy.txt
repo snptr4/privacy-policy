@@ -1,0 +1,60 @@
+Privacy Policy for trieptest
+
+Effective Date: 22/12/2024
+
+Introduction
+
+At [trieptest], we are committed to protecting your privacy. This privacy policy outlines the types of information we collect, how we use it, and your rights regarding your data when you use our app.
+
+Data Collection
+
+We collect the following information to provide our services:
+
+Personal Information: When you register, we collect your email address, user name, and password using Firebase authentication. A country code is also assigned to your account.
+Media: Users, including end users, are required to take and upload photos via the app. These photos are stored in Firebase. A team photo is also requested for end users.
+Location Data: For functional users, the latitude and longitude of points of interest are recorded alongside images of buildings or landmarks.
+Language Preference: We use your phone's language settings to determine the language displayed in the app (default: English).
+Questions and Answers: Functional users can create and edit questions related to specific towns or cities. End users can answer these questions, and their answers are saved temporarily.
+Data Use
+
+We use the data collected for the following purposes:
+
+App Functionality: Functional users can add, update, or delete buildings and points of interest for their assigned towns. End users use the data to answer questions and upload photos.
+Admin Roles: Administrators (our team) have access to manage data directly in Firebase and via the app. They can also perform mass uploads of data. Owners can create city, town, and street data for specific countries, allocate access to functional users, and monitor end user usage.
+Security: We use your email, password, and assigned roles to determine the level of access to data in the app. Functional users have limited access to specific towns or cities. End users are assigned a temporary, generic email and password.
+Analytics: We monitor the number of end users associated with each functional user. Functional users can analyze end user activity within their assigned cities or towns. Owners can analyze end user activity within their country. In the future, owners and functional users may be charged based on data usage.
+Third-Party Services
+
+We use third-party services, including:
+
+Firebase: For user authentication, data storage, and media uploads.
+Google Maps: To display location data for points of interest.
+These services may collect information in accordance with their own privacy policies.
+
+User Rights
+
+Functional users can:
+
+Add, update, or delete buildings and points of interest for the towns they manage.
+Add or update general or town-specific questions, though these will only be visible to end users after central approval.
+Owners can:
+
+Create city, town, and street data.
+Assign functional users to specific cities or towns within their assigned country.
+Monitor and analyze end user activity.
+End users can:
+
+View questions, answer them, and upload images, though this data is regularly deleted.
+You may contact us to request access to, or deletion of, your personal data at paulakram@hotmail.com.
+
+Data Security
+
+We take reasonable measures to protect your personal data. Functional users and owners are restricted to accessing only the data they are assigned to. End users' data (including images) is regularly deleted. However, please note that end users may appear in some of the images stored as part of their answers.
+
+Changes to This Policy
+
+We may update this privacy policy from time to time. Any changes will be communicated via the app and posted on this page.
+
+Contact Us
+
+If you have any questions or concerns regarding this privacy policy, please contact us at paulakram@hotmail.com.
